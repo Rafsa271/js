@@ -1,0 +1,38 @@
+{
+  "name": "Rafsablog",
+  "short_name": "Rafsablog",
+  "start_url": "https://www.rafsablog.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Situs seru dan banyak wawasan",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-VAZBKN9PThI/XR6j1VvpLtI/AAAAAAAAGRQ/ZYgU2_CMiCQKacAjU_sar77jOmgKUC4TwCLcBGAs/s1600/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WPgcS8907Vk/XR6j3PDQl-I/AAAAAAAAGRY/jcrUliEHwqAZ0pPd2jvIWyMC5iyHTZIwgCLcBGAs/s1600/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DTX3_niQm34/XR6j3_R7YDI/AAAAAAAAGRc/paW7zhWM2CUwY6vNKLfHOm3v6hKr-dOzQCLcBGAs/s1600/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fBGCd2DEvmw/XR6jzZDr0TI/AAAAAAAAGRE/U2Vt-XiwM5wmt4XNMjyP2K9SwxWt81XNwCLcBGAs/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZQk5NRSw_GQ/XR6j0Dp-N9I/AAAAAAAAGRI/I_h4ELDZh2sD21gBm5xJgmrKFXFcWknWwCLcBGAs/s1600/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-kEFuK-q1gqU/XR6mkg0DwUI/AAAAAAAAGR0/QwUcbBtT5n4US6hr9zbCgLGBgGog2yg1QCLcBGAs/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YhXqMPf0hYQ/XR6j3A-hY1I/AAAAAAAAGRU/Zr7i1dnbtP8fXS1_rKMiRZLjAaDq_JFWQCLcBGAs/s1600/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
